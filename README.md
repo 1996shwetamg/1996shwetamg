@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shweta gurangoudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta gurangoudar" height="30" width="40" /></a>
 <a href="https://instagram.com/1996sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1996sv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shweta gurangoudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shweta gurangoudar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/1996shwetamg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1996shwetamg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shwetamg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shwetamg" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/shweta gurangoudar @1996shwetamg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shweta gurangoudar @1996shwetamg" height="30" width="40" /></a>
 </p>
