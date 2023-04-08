@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shweta Guranagoudar) 
-[![portfolio](https://img.shields.io/badge/Portfolio-%238077B5.svg?logo=portfolio&logoColor=white)](https://1996shwetamg.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%238077B5.svg?logo=portfolio&logoColor=white)](https://1996shwetamg.github.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1996shwetamg&label=Profile%20views&color=0e75b6&style=flat" alt="1996shwetamg" /> </p>
 
