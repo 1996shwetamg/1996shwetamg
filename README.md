@@ -15,7 +15,7 @@
 
 - 🤝 I have worked on [MGNREGA](https://drive.google.com/file/d/1dJNBGGVnkdnIlE3pAAmPuG9iicrFCv3V/view?usp=share_link)
 
-- 👨‍💻 All of my projects are available at [https://github.com/1996shwetamg/1996shwetamg.github.io](https://github.com/1996shwetamg/1996shwetamg.github.io)
+- 👨‍💻 All of my projects are available at [https://1996shwetamg.github.io](https://1996shwetamg.github.io)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MySQL,Java**
 
