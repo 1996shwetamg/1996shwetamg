@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full Stack Web Developer from Karnataka,India</h3>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/shweta-gurangoudar-9b0241264/") 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%238077B5.svg?logo=portfolio&logoColor=white)]("https://1996shwetamg.github.io")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-gurangoudar-9b0241264/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%238077B5.svg?logo=portfolio&logoColor=white)](https://1996shwetamg.github.io)
 
 <a href = "https://1996shwetamg.github.io" >
 
