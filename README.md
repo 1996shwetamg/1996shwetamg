@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Mahantesh Guranagoudar</h1>
-<h3 align="center">A passionate Java Backend Developer from Karnataka,India</h3>
+<h3 align="center">A passionate Java Backend Developer from Belagavi,Karnataka</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-gurangoudar-9b0241264/) 
