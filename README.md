@@ -30,7 +30,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/19RXhmLUs94QZa7obmJdNEVPmqKLZbCOj/view?usp=sharing](https://drive.google.com/file/d/19RXhmLUs94QZa7obmJdNEVPmqKLZbCOj/view?usp=sharing)
 
 # 💫 About Me:
-🌱I’m currently Learning JAVA at Masai School.<br>🌏 Looking to solve real-world problems.<br>💻 I'm passionate about making creative websites.<br>⚡ Fact: I love to connect with people.<br>💬 Ask me about Javascript, HTML, CSS, Java, Mysql, Nodejs.
+🌱I’m currently Learning JAVA at Masai School.<br>🌏 Looking to solve real-world problems.<br>💻 I'm passionate about making creative websites.<br>⚡ Fact: I love to connect with people.<br>💬 Ask me about Javascript, HTML, CSS, CoreJava,SpringBoot,Hibernate, Mysql, Nodejs.
 
 
 
